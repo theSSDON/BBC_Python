@@ -29,7 +29,6 @@ def ques_3():
     x1 = ((-b) + (math.sqrt((b**2) - (4*a*c)))) / (2*a)
     x2 = ((-b) - (math.sqrt((b**2) - (4*a*c)))) / (2*a)
     print("The roots are", x1, 'and', x2)
-ques_3()
 
 #WAP to check leap year
 def ques_4():
