@@ -1,12 +1,6 @@
 import math
 
 #WAP to print multiplication table of entered number
-from glob import escape
-from re import I
-from this import d
-from sqlalchemy import true
-
-
 def ques_1():
     n = int(input("Enter the number "))
     for i in range (1,11):
